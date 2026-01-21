@@ -36,3 +36,5 @@ The program allows the user to enter hours, minutes, and seconds, then counts do
 - Console output (`System.out.printf`)
 - Thread handling (`Thread.sleep`)
 
+## Author 
+Kaelin Kesavjee
