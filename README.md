@@ -5,7 +5,7 @@ The program allows the user to enter hours, minutes, and seconds, then counts do
 
 ---
 
-## 🧠 Features
+## Features
 
 - Accepts user input for hours, minutes, and seconds
 - Converts all time into total seconds for accurate countdown logic
@@ -16,7 +16,7 @@ The program allows the user to enter hours, minutes, and seconds, then counts do
 
 ---
 
-## 📌 How It Works
+## How It Works
 
 1. The user enters hours, minutes, and seconds
 2. The program converts the input into **total seconds**
@@ -29,14 +29,10 @@ The program allows the user to enter hours, minutes, and seconds, then counts do
 
 ---
 
-## 🛠 Technologies Used
+## Technologies Used
 
 - Java
 - Scanner (user input)
 - Console output (`System.out.printf`)
 - Thread handling (`Thread.sleep`)
-
-
-
-## ▶️ Example Output
 
