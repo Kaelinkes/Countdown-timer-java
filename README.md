@@ -2,6 +2,7 @@
 
 A simple **console-based countdown timer** written in Java.  
 The program allows the user to enter hours, minutes, and seconds, then counts down in real time while updating the display on a **single console line**.
+This program shows my learning of for loops, .flush and thread handling.
 
 ---
 
